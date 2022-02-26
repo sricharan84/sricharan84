@@ -1,5 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3LZqcXQ3A6tkZdL0sH/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Ye7UYS5NTl6arPbDw7/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=red" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js" alt="LinkedIn Badge"/>
 </div>
 
 - 👋 Hi, I’m @sricharan84
